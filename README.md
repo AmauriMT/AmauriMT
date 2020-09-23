@@ -28,4 +28,5 @@ Developer Front-end
 * SQL Server
 * PHP 
 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat=square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/amauritecsistemas/)](https://www.linkedin.com/in/amauritecsistemas/)
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />(https://www.linkedin.com/in/amauritecsistemas)
