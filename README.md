@@ -31,7 +31,8 @@ Developer Front-end
 
 [![Linkdin Badge][(https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Famauritecsistemas%2F)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2F)
 
-![Badge](https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT)
+https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
+
 
 
 Meu LinkeDin: (http://https://www.linkedin.com/in/amauritecsistemas/) 
