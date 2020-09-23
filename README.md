@@ -30,7 +30,8 @@ Developer Front-end
 
 
 
+![Badge](https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT)
 
 
-Meu LinkeDin: [GitHub](http://https://www.linkedin.com/in/amauritecsistemas/) 
+Meu LinkeDin: (http://https://www.linkedin.com/in/amauritecsistemas/) 
 
