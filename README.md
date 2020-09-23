@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 -->
 
 # AMAURI DE MIRANDA TUCILLO
+
 Developer Front-end
 
 ## Meus Skills:
@@ -28,7 +29,7 @@ Developer Front-end
 * PHP 
 
 
-
+[![Linkdin Badge][(https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Famauritecsistemas%2F)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2F)
 
 ![Badge](https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT)
 
