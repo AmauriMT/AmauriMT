@@ -17,3 +17,11 @@ Here are some ideas to get you started:
 -->
 
 # AMAURI DE MIRANDA TUCILLO
+Developer Front-end 
+
+
+
+
+
+
+Meu LinkeDin: https://www.linkedin.com/in/amauritecsistemas/
