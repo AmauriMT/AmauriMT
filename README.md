@@ -1,5 +1,6 @@
-### Hi there 👋
+Saudações!!! 👋
 
+Seja Bem vindo ao meu repositorio ! 😄
 <!--
 **AmauriMT/AmauriMT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
