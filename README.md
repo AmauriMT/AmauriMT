@@ -20,14 +20,12 @@ Here are some ideas to get you started:
 Developer Front-end
 
 ## Meus Skills:
-HTML5
+* HTML5
 CSS3
 JavaScript
-C#
-ASP.Net Core
+MySQL
 SQL Server
-ReactJS
-React Native
+
 
 
 
