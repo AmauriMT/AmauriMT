@@ -21,14 +21,16 @@ Developer Front-end
 
 ## Meus Skills:
 * HTML5
-CSS3
-JavaScript
-MySQL
-SQL Server
+* CSS3
+* JavaScript
+* MySQL
+* SQL Server
+* PHP 
 
 
 
 
 
 
-Meu LinkeDin: (http://https://www.linkedin.com/in/amauritecsistemas/) 
+Meu LinkeDin: [GitHub](http://https://www.linkedin.com/in/amauritecsistemas/) 
+
