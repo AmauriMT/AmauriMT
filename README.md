@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # AMAURI DE MIRANDA TUCILLO
 Developer Front-end
 
-##Meus Skills:
+## Meus Skills:
 HTML5
 CSS3
 JavaScript
