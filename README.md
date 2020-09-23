@@ -17,11 +17,20 @@ Here are some ideas to get you started:
 -->
 
 # AMAURI DE MIRANDA TUCILLO
-Developer Front-end 
+Developer Front-end
+
+##Meus Skills:
+HTML5
+CSS3
+JavaScript
+C#
+ASP.Net Core
+SQL Server
+ReactJS
+React Native
 
 
 
 
 
-
-Meu LinkeDin: [Flex Grid](http://https://www.linkedin.com/in/amauritecsistemas/) 
+Meu LinkeDin: (http://https://www.linkedin.com/in/amauritecsistemas/) 
